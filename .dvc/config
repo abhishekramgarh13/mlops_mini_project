@@ -1,0 +1,4 @@
+[core]
+    remote = myremoteml
+['remote "myremoteml"']
+    url = ../UsersHPAppDataLocalTemp
