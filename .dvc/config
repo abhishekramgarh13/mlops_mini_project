@@ -1,4 +1,4 @@
 [core]
-    remote = myremoteml
-['remote "myremoteml"']
-    url = ../UsersHPAppDataLocalTemp
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://ramgarh-mlops-mini
